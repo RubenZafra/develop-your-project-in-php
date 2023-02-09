@@ -4,7 +4,7 @@
 The fastest way to buy, sell and transfer criptocoins on the Web 3.0!
 
 Use the app here👇<br>
-[Deploy]()
+[Deploy](http://crypto-domain.000webhostapp.com/)
 
 ## Index 
 
